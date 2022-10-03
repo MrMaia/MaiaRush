@@ -1,0 +1,32 @@
+
+#▒█▀▄▀█ ░█▀▀█ ▀█▀ ░█▀▀█   ▒█▀▀█ ▒█░▒█ ▒█▀▀▀█ ▒█░▒█
+#▒█▒█▒█ ▒█▄▄█ ▒█░ ▒█▄▄█   ▒█▄▄▀ ▒█░▒█ ░▀▀▀▄▄ ▒█▀▀█
+#▒█░░▒█ ▒█░▒█ ▄█▄ ▒█░▒█   ▒█░▒█ ░▀▄▄▀ ▒█▄▄▄█ ▒█░▒█
+
+
+msgrlconfig: '&aConfig recarregada com sucesso!'
+servermotd: '                   &6&lMAIA&f&lRUSH &f%seta% 1.12.2                                          &ewww.maiastudio.com.br  '
+itemspawn:
+  book:
+    mensagem: 'Baguilho é loko %line%lalalalal%line%lalalala'
+    author: '&6&lMaiaRush'
+    title: '&eComo jogar ?'
+
+lobby:
+  titlejoin: '&6&lMAIA&f&lRUSH'
+  subtitlejoin: '&fBem Vindo &e%player%'
+  joinmsg: '&a[+] &7%player%'
+  quitmsg: '&c[-] &7%player%'
+  flyonmsg: '&aVocê ativou o voo!'
+  flyoffmsg: '&cVocê desativou o voo!'
+
+### Placeholders ###
+# %player% = Player
+# %message% = Message
+### Symbols ###
+# %seta% = ≫
+chat: '&e%player% &7%seta% &f%message%'
+
+playnpc:
+  msgplaced: '&a(!) NPC definido com sucesso!'
+  npcname: '&e&lJOGAR'

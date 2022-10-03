@@ -1,0 +1,9 @@
+name: MaiaRush
+version: '${project.version}'
+main: maiastudio.me.maiarush.MaiaRush
+authors: [ MaiaStudio ]
+description: Minigame
+commands:
+  maiareload:
+  fly:
+  setnpc:
